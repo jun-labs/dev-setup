@@ -82,6 +82,7 @@ Download the required tools.
 
 - [Adobe](https://www.adobe.com/home?acomLocale=kr)
 - [Discord](https://discord.com/)
+- [Docker](https://www.docker.com/)
 - [HHKB](https://happyhackingkb.com/download/)
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
