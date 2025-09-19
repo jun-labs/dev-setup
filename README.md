@@ -78,6 +78,8 @@ source ~/.zshrc
 
 # 🚀 Tools
 
+Download the required tools.
+
 - [Adobe](https://www.adobe.com/home?acomLocale=kr)
 - [Discord](https://discord.com/)
 - [HHKB](https://happyhackingkb.com/download/)
@@ -87,6 +89,7 @@ source ~/.zshrc
 - [Postman](https://www.postman.com/)
 - [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/download/?section=mac)
 - [Slack](https://slack.com/intl/ko-kr/)
+- [Sublimetext](https://www.sublimetext.com/)
 - [VSCode](https://code.visualstudio.com/download)
 - [Zoom](https://support.zoom.com/hc/ko/article?id=zm_kb&sysparm_article=KB0060411)
 
