@@ -99,9 +99,12 @@ Download the required tools.
 
 # 📱 App
 
-- Confluence
-- Flow
-- Magnet
-- Jira
-- RunCat
+Download the required application.
+
+- [Confluence](https://apps.apple.com/kr/app/confluence-cloud/id1006971684)
+- [Flow](https://apps.apple.com/kr/app/flow-%EB%BD%80%EB%AA%A8%EB%8F%84%EB%A1%9C-%EC%A7%91%EC%A4%91-%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC-%EA%B3%B5%EB%B6%80-%ED%83%80%EC%9D%B4%EB%A8%B8/id1423210932)
+- [Magnet](https://apps.apple.com/kr/app/magnet/id441258766?mt=12)
+- [Jira](https://apps.apple.com/kr/app/jira-cloud-by-atlassian/id1006972087)
+- [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
+- [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
