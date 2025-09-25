@@ -1,8 +1,10 @@
-This setup guide was created to streamline repetitive tasks when setting up a new Mac or switching to a new device. It is written based on Apple Silicon (M1/M2/M3, etc.), not Intel Macs.
+# 🖥️ Mac Setup
 
-> Adjust the configuration as needed.
+This document is intended to streamline repetitive tasks when setting up a new Mac or switching to a new device. It is based on Apple Silicon (M1, M2, M3, etc.) rather than Intel Macs.
 
-<br/>
+> Feel free to adjust the configuration as needed.
+
+<br/><br/>
 
 # 🍺 Homebrew
 
@@ -116,7 +118,7 @@ Download the required application.
 
 <br/><br/>
 
-# IDE
+# ⚙️ IDE
 
 JetBrains IDEs store their settings in version-specific directories. Check which IDE versions are installed with the following command.
 
@@ -126,17 +128,20 @@ ls ~/Library/Application\ Support/JetBrains/
 
 <br/>
 
-For example, if you are using IntelliJ IDEA 2025.1, you can view the keymap configuration file as follows.
+For example, if you are using IntelliJ IDEA 2025.1, you can check the keymap, codestyles, templates configuration files as follows.
 
 ```shell
+# keymap
 cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/keymaps/macOS\ copy.xml
 ```
 
-<br/>
-
-You can check the code style by running the following command.
+```shell
+# codestyles
+cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/codestyles/Default.xml
+```
 
 ```shell
-ls ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/codestyles/Default.xml
+# templates 
+cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/templates/Java.xml
 ```
 
