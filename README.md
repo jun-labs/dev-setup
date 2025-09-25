@@ -1,8 +1,8 @@
 # 🖥️ Mac Setup
 
-This setup guide was created to streamline repetitive tasks when setting up a new Mac or switching to a new device. It is written based on Apple Silicon (M1/M2/M3, etc.), not Intel Macs.
+This document is intended to streamline repetitive tasks when setting up a new Mac or switching to a new device. It is based on Apple Silicon (M1, M2, M3, etc.) rather than Intel Macs.
 
-> Adjust the configuration as needed.
+> Feel free to adjust the configuration as needed.
 
 <br/><br/>
 
