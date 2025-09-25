@@ -1,3 +1,9 @@
+This setup guide was created to streamline repetitive tasks when setting up a new Mac or switching to a new device. It is written based on Apple Silicon (M1/M2/M3, etc.), not Intel Macs.
+
+> Adjust the configuration as needed.
+
+<br/>
+
 # 🍺 Homebrew
 
 Install Homebrew.
@@ -107,4 +113,30 @@ Download the required application.
 - [Jira](https://apps.apple.com/kr/app/jira-cloud-by-atlassian/id1006972087)
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973?mt=12)
 - [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+
+<br/><br/>
+
+# IDE
+
+JetBrains IDEs store their settings in version-specific directories. Check which IDE versions are installed with the following command.
+
+```shell
+ls ~/Library/Application\ Support/JetBrains/
+```
+
+<br/>
+
+For example, if you are using IntelliJ IDEA 2025.1, you can view the keymap configuration file as follows.
+
+```shell
+cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/keymaps/macOS\ copy.xml
+```
+
+<br/>
+
+You can check the code style by running the following command.
+
+```shell
+ls ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/codestyles/Default.xml
+```
 
