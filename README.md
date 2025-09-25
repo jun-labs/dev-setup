@@ -116,7 +116,7 @@ Download the required application.
 
 <br/><br/>
 
-# IDE
+# ⚙️ IDE
 
 JetBrains IDEs store their settings in version-specific directories. Check which IDE versions are installed with the following command.
 
@@ -126,17 +126,17 @@ ls ~/Library/Application\ Support/JetBrains/
 
 <br/>
 
-For example, if you are using IntelliJ IDEA 2025.1, you can view the keymap configuration file as follows.
+For example, if you are using IntelliJ IDEA 2025.1, you can check the keymap, codestyles, templates configuration files as follows.
 
 ```shell
 cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/keymaps/macOS\ copy.xml
 ```
 
-<br/>
-
-You can check the code style by running the following command.
+```shell
+cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/codestyles/Default.xml
+```
 
 ```shell
-ls ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/codestyles/Default.xml
+cat ~/Library/Application\ Support/JetBrains/IntelliJIdea2025.1/templates/Java.xml
 ```
 
